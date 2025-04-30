@@ -1,12 +1,12 @@
-# Malvin Pair - Pair Code Generator
+# lyrical - Pair Code Generator
 > **A simple and elegant way to generate pairing codes for bots with Malvin Baileys using mega.js. Easily deployable and ready for integration into your bot system.**
 
 - **Fork**, **Star**, and **Edit** as you wish.
 - **Deploy** on Heroku, Render, or Koyeb with one click.
-- Integrated into **[Malvin Pairing Site](https://pairing.ech.web.id)**. 
+- Integrated into **[lyrical pairing site](https://pairing.ech.web.id)**. 
 
 ### **Important Note:**
-This repo generates pairing codes and session IDs for bots using **Malvin Baileys** powered by **mega.js**.
+This repo generates pairing codes and session IDs for bots using **lyrical Baileys** powered by **mega.js**.
 
 ---
 
@@ -63,17 +63,17 @@ Deploy the project to your favorite hosting platform with the buttons below:
 ---
 
 ### **Example Output**
-View the output in action by visiting the **[Malvin Pairing Site](https://pairing.gh.web.id)**.
+View the output in action by visiting the **[lyrical Pairing Site](https://pairing.gh.web.id)**.
 
 ---
 
 ### **Contact the Owner**
 Need support or have questions? Contact the owner:
 
-[Malvin King on GitHub](https://github.com/XdKing2)
+[sharksam GitHub](https://github.com/XdKing2)
 
 ---
 
 ### **Credits**
-- **Malvin King** (Creator)
-- **Powered by** [Malvin Baileys](https://github.com/xdking2/malvin-baileys)
+- **lyrical** (Creator)
+- **Powered by** [lyrical aileys](https://github.com/xdking2/malvin-baileys)
